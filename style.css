@@ -1,0 +1,36 @@
+body{
+    align-items: center;
+    text-align: center;
+    color: #cdb8e6;
+    margin: 0%;
+    background-color: #043f58;
+}
+#lucky-num,#date-of-birth{
+    padding: 10px;
+    border-radius: 5px;
+}
+label{
+    font-size: large;
+    font-weight: 400;
+}
+.footer{
+    background-color: #cdb8e6;
+    padding: 1rem 1rem;
+    border-top-left-radius: 0.5rem;
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    margin-top: 155px;
+}
+.footer .link{
+    color: white;
+}
+.inline-list{
+    display: inline;
+ 
+}
+.git{
+    width: 40px;
+    border-radius: 31px;
+    padding: 10px;
+}
