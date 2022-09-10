@@ -30,6 +30,7 @@ function compareValue(sum,luckynumber){
         output.style.display="block"
     }
     else{
+        output.style.display="block"
         output.innerText="Your Birthday is not lucky 😞";
     }
 }
